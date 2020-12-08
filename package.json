@@ -1,0 +1,25 @@
+{
+  "name": "aprendiendonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js",
+    "debug": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivadeveira/aprendiendoNode.git"
+  },
+  "author": "Carlos Rivadeneira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivadeveira/aprendiendoNode/issues"
+  },
+  "homepage": "https://github.com/rivadeveira/aprendiendoNode#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
